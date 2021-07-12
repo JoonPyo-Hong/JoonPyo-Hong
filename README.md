@@ -6,7 +6,7 @@
 </div>
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonPyo-Hong&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonPyo-Hong&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div>
