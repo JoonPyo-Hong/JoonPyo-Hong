@@ -1,4 +1,6 @@
-### Hi 🖐
+### Hi there 🖐
+- 👩🏻‍💼   Junior Web developer
+- 💻    usually using Java and C# language for programmming
 <br>
 <div align = right>
 
