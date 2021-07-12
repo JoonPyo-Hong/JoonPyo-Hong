@@ -7,7 +7,7 @@
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonPyo-Hong&show_icons=true&theme=radical&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div>
   #F80000
