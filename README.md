@@ -12,8 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
-<div>
-👩🏻‍💻 Tech Stack 
+###👩🏻‍💻 Tech Stack 
 <br>
  <br>
 <p align="center">
@@ -30,5 +29,4 @@
 </p>
   
 
-  
-</div>
+
