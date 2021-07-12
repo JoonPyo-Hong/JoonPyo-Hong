@@ -11,9 +11,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonPyo-Hong&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+<br>
 <div>
 👩🏻‍💻 Tech Stack 
-
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
