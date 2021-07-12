@@ -12,5 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div>
-<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/>
 </div>
