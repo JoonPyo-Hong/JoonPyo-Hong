@@ -5,6 +5,7 @@
   
 </div>
 - 👩🏻‍💼   Junior Web developer
+<br>
 - 💻    usually using Java and C# language for programmming
 
 <br>
