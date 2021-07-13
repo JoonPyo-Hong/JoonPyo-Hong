@@ -1,7 +1,7 @@
 ### Hi there 🖐
 <div align = right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23353333&title_bg=%23F3A6F9&icon=github.svg&icon_color=%23FFFFFF&title=hits+%28%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23353333&title_bg=%23F3A6F9&icon=github.svg&icon_color=%23FFFFFF&title=hits+%28%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98%29&edge_flat=false)](https://github.com/JoonPyo-Hong)
   
 </div>
 <br>
