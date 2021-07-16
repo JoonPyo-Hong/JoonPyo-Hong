@@ -6,8 +6,8 @@
 </div>
 <br>
 
--  👽  &nasp;Junior Web developer
--  💻  &nasp;usually using Java and C# language for programmming
+-  👽   Junior Web developer
+-  💻   usually using Java and C# language for programmming
 
 <br>
 <br>
