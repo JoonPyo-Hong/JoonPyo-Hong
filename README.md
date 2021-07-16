@@ -1,4 +1,4 @@
-### Hi there 🖐
+### Hi there 👋🏻
 <div align = right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonPyo-Hong&count_bg=%23E398D0&title_bg=%23131111&icon=github.svg&icon_color=%23FFFFFF&title=hits+%28%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98%29&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -6,8 +6,8 @@
 </div>
 <br>
 
-- 👩🏻‍💼   Junior Web developer
-- 💻    usually using Java and C# language for programmming
+-  👽  Junior Web developer
+-  💻  usually using Java and C# language for programmming
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 </div>
 <br>
 
-### 👩🏻‍💻 Tech Stack 
+### 💪🏻 Tech Stack 
 
 
 <p align="center">
