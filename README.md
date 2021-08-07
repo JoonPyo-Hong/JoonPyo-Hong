@@ -18,7 +18,7 @@
 </div>
 <br>
 
-### 💪🏻 Tech Stack 
+### 💪🏻 Tech Stack
 
 
 <p align="center">
